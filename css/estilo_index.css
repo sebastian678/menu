@@ -1,0 +1,19 @@
+
+#principal {
+ background: #f2f2f2 ;
+  height:   700px ;
+  width:  300px ; 
+  margin:   auto;
+}
+header {
+  height:  150px ;
+  width:  800px ;
+}
+nav {
+  height:   50px ;
+  width:   800px ;
+}
+section{
+  height: 200px ;
+  width:  400px ;
+}
